@@ -37,4 +37,8 @@ Copyright (c) [2024] [Yusuf Yuldashov]
 
 ## Скриншоты
 <img src="Screenshot1.jpg" width="500">
+<img src="Screenshot2.jpg" width="500">
+<img src="Screenshot3.jpg" width="500">
+<img src="Screenshot4.jpg" width="500">
+<img src="Screenshot5.jpg" width="500">
 
