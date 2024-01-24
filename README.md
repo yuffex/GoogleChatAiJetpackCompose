@@ -36,9 +36,11 @@ Copyright (c) [2024] [Yusuf Yuldashov]
 - Анализ изображений: Приложение также способно анализировать изображения, определять задний фон и многое другое.
 
 ## Скриншоты
-<img src="Screenshot1.jpg" width="500">
-<img src="Screenshot2.jpg" width="500">
-<img src="Screenshot3.jpg" width="500">
-<img src="Screenshot4.jpg" width="500">
-<img src="Screenshot5.jpg" width="500">
-
+<div style="display: flex;">
+  <img src="Screenshot1.jpg" width="300">
+  <img src="Screenshot2.jpg" width="300">
+</div>
+<div style="display: flex;">
+  <img src="Screenshot3.jpg" width="300">
+  <img src="Screenshot4.jpg" width="300">
+</div>
