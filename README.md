@@ -40,9 +40,10 @@ object ChatData {
 - Анализ изображений: Приложение также способно анализировать изображения, определять задний фон и многое другое.
 
 ## Скриншоты
-![Screenshots](screenshot1.png)
-![Screenshots](screenshot2.png)
-![Screenshots](screenshot3.png)
-![Screenshots](screenshot4.png)
-![Screenshots](screenshot5.png)
+![Screenshots](Screenshot1.jpg)
+![Screenshots](Screenshot2.jpg)
+![Screenshots](Screenshot3.jpg)
+![Screenshots](Screenshot4.jpg)
+![Screenshots](Screenshot5.jpg)
+
 
