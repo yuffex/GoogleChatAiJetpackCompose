@@ -21,9 +21,14 @@ AiChatCompose - это приложение для Android, разработан
 2. Откройте проект в Android Studio.
 3. Запустите приложение на эмуляторе или физическом устройстве.
 
-## Лицензия
-MIT License
+## Получение API ключа
+Для использования приложения вам необходимо получить API ключ на [AI Studio от Google](https://makersuite.google.com/app/apikey). Замените заполнитель в файле `ChatData.kt` на ваш реальный ключ API.
 
+```kotlin
+object ChatData {
+    val api_key = "ВАШ_РЕАЛЬНЫЙ_API_КЛЮЧ"
+}
+```
 Copyright (c) [2024] [Yusuf Yuldashov]
 
 ## Возможности
@@ -31,19 +36,10 @@ Copyright (c) [2024] [Yusuf Yuldashov]
 - Анализ изображений: Приложение также способно анализировать изображения, определять задний фон и многое другое.
 
 ## Скриншоты
-![Screenshots](Screenshot5.jpg)
+![Screenshots](Screenshot5.jpg | width=200)
 ![Screenshots](Screenshot2.jpg)
 ![Screenshots](Screenshot3.jpg)
 ![Screenshots](Screenshot4.jpg)
 ![Screenshots](Screenshot5.jpg)
-
-## Получение API ключа
-Для использования приложения вам необходимо получить API ключ на [AI Studio от Google](https://makersuite.google.com/app/apikey). Замените заполнитель в файле `ChatData.kt` на ваш реальный ключ API.
-
-```kotlin
-object ChatData {
-    val api_key = "ВАШ_РЕАЛЬНЫЙ_API_КЛЮЧ"
-    // ...
-}
 
 
