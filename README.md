@@ -34,3 +34,15 @@ object ChatData {
     val api_key = "ВАШ_РЕАЛЬНЫЙ_API_КЛЮЧ"
     // ...
 }
+
+## Возможности
+- Текстовый чат: Задавайте вопросы и получайте ответы от искусственного интеллекта.
+- Анализ изображений: Приложение также способно анализировать изображения, определять задний фон и многое другое.
+
+## Скриншоты
+![Screenshots](screenshot1.png)
+![Screenshots](screenshot2.png)
+![Screenshots](screenshot3.png)
+![Screenshots](screenshot4.png)
+![Screenshots](screenshot5.png)
+
