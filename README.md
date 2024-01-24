@@ -26,15 +26,6 @@ MIT License
 
 Copyright (c) [2024] [Yusuf Yuldashov]
 
-## Получение API ключа
-Для использования приложения вам необходимо получить API ключ на [AI Studio от Google](https://makersuite.google.com/app/apikey). Замените заполнитель в файле `ChatData.kt` на ваш реальный ключ API.
-
-```kotlin
-object ChatData {
-    val api_key = "ВАШ_РЕАЛЬНЫЙ_API_КЛЮЧ"
-    // ...
-}
-
 ## Возможности
 - Текстовый чат: Задавайте вопросы и получайте ответы от искусственного интеллекта.
 - Анализ изображений: Приложение также способно анализировать изображения, определять задний фон и многое другое.
@@ -45,3 +36,14 @@ object ChatData {
 ![Screenshots](Screenshot3.jpg)
 ![Screenshots](Screenshot4.jpg)
 ![Screenshots](Screenshot5.jpg)
+
+## Получение API ключа
+Для использования приложения вам необходимо получить API ключ на [AI Studio от Google](https://makersuite.google.com/app/apikey). Замените заполнитель в файле `ChatData.kt` на ваш реальный ключ API.
+
+```kotlin
+object ChatData {
+    val api_key = "ВАШ_РЕАЛЬНЫЙ_API_КЛЮЧ"
+    // ...
+}
+
+
